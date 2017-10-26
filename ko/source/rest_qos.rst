@@ -1057,7 +1057,7 @@ OpenFlow 1.3에서 Meter Table이 도입되어, OpenFlow에서 트래픽 폴리�
 
     ofsoftswitch13의 설치 절차 등에 대해서는 여기서 다루지 않습니다.
     참고:
-    (https://github.com/CPqD/ofsoftswitch13/wiki/OpenFlow-1.3-Tutorial)
+    (https://github.com/CPqD/ofsoftswitch13#getting-started)
 
 
 다음과 같이 여러 DiffServ 도메인 (DS 도메인)으로 구성된 네트워크를 가정합니다.

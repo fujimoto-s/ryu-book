@@ -1085,7 +1085,7 @@ This switch supports Meter Table.
 
     This section does not describe the installation instructions for ofsoftswitch13.
 
-    Reference: https://github.com/CPqD/ofsoftswitch13/wiki/OpenFlow-1.3-Tutorial
+    Reference: https://github.com/CPqD/ofsoftswitch13#getting-started
 
 
 The following shows an example of the network composed of the multiple DiffServ domain (DS domain).

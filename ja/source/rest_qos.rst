@@ -1058,7 +1058,7 @@ OpenFlow 1.3よりMeter Tableが導入されOpenFlowでトラフィックのポ�
 
     ofsoftswitch13のインストール手順などについては本稿では解説しません。
     参考:
-    (https://github.com/CPqD/ofsoftswitch13/wiki/OpenFlow-1.3-Tutorial)
+    (https://github.com/CPqD/ofsoftswitch13#getting-started)
 
 
 以下のように複数のDiffServドメイン(DSドメイン)により構成されているネットワークを想定します。
